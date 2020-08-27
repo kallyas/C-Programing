@@ -1,2 +1,2 @@
 # C-Programing
-ALL C Pprograms Ever Made
+A Journey to Learning C Programing!
